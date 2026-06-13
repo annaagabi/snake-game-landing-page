@@ -137,7 +137,31 @@ Exibição de imagens relacionadas ao jogo.
 
 ## Versão Mobile
 
-![Mobile Hero](assets/screenshots/mobile-1.png)
+### Página Inicial
+
+![Mobile Hero](assets/screenshots/mobile-hero.png)
+
+### Menu
+
+![Mobile Menu](assets/screenshots/mobile-menu.png)
+
+### Sobre
+
+![Mobile About](assets/screenshots/mobile-about.png)
+
+### Features
+
+![Mobile Feature 1](assets/screenshots/mobile-features-1.png)
+![Mobile Feature 2](assets/screenshots/mobile-features-2.png)
+
+### Galeria
+
+![Mobile Gallery](assets/screenshots/mobile-gallery.png)
+
+### Jogar
+
+![Mobile Play Game](assets/screenshots/mobile-play-game.png)
+
 ---
 
 # 📁 Estrutura do Projeto
@@ -162,6 +186,7 @@ snake-game-landing-page/
 │   │   ├── gallery.png
 │   │   ├── play-game.png
 │   │   ├── mobile-hero.png
+│   │   ├── mobile-menu.png
 │   │   ├── mobile-about.png
 │   │   ├── mobile-features-1.png
 │   │   ├── mobile-features-2.png
@@ -204,13 +229,7 @@ O projeto foi publicado utilizando GitHub Pages.
 
 # 🔗 GitHub Pages
 
-Acesse a aplicação através do link:
-
-```text
-https://seu-usuario.github.io/snake-game-landing-page/
-```
-
-> Substitua pelo link real após a publicação.
+Acesse a aplicação através do link: [snake-game-landing-page](https://annaagbai.github.io/snake-game-landing-page/)
 
 ---
 
@@ -261,8 +280,6 @@ Todo o código gerado com auxílio do ChatGPT foi analisado, adaptado e validado
 
 **Anna Gabriela**
 
-GitHub:
-
-https://github.com/annaagabi
+GitHub: [annaagabi](https://github.com/annaagabi)
 
 Desenvolvido em Junho de 2026.
